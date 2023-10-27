@@ -4,7 +4,8 @@
     color: #5c715e;
     padding: 16px;
     border-radius: 4px;
-    background-color: #f2f9f1;
+    
+    background: linear-gradient(180deg, rgb(242, 249, 241) 0%, rgb(182, 205, 189) 100%);
 }
 
 
@@ -33,8 +34,8 @@
 }
 
 .Weather img {
-    height: 64px;
-    width: 64px;
+    height: 70px;
+    width: 70px;
     margin-top: 10px;
     display: inline-block;
 }
